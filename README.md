@@ -1,5 +1,5 @@
 # animerating
-
+#### A self-made anime rating website
 ## Project setup
 ```
 npm install
