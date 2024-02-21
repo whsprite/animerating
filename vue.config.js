@@ -7,8 +7,7 @@ module.exports = {
     port: 80,
     proxy: {
       '/v1/': {
-        target: 'http://182.92.0.107:8081',
-        // target: 'http://api.live.bilibili.com/room',
+        target: 'your sever ip address',
         changeOrigin: true,
       }
     }
